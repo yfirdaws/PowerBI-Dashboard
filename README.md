@@ -1,2 +1,15 @@
 # PowerBI-Dashboard
  This respository contains analysis done with PowerBI
+ 
+ Dataset are not mine except where indicated
+
+
+PROJECTS INCLUDED
+
+1. [Goodreads analysis](https://github.com/yfirdaws/PowerBI-Dashboard/tree/main/Good%20reads%20analysis). Data OmegaMay 2022 Challenge required visualising books published in the past 100 years. ![Good reads dashboard](https://github.com/yfirdaws/PowerBI-Dashboard/blob/main/Good%20reads%20analysis/Screenshot%20(114).png)
+
+2. [Airline Passenger Satisfaction](https://github.com/yfirdaws/PowerBI-Dashboard/tree/main/Maven%20Airline%20Passenger%20Satisfaction)is based of data gotten from maven analytics june 2022 challenge.  ![Airline dashboard](https://github.com/yfirdaws/PowerBIDashboard/blob/main/Maven%20Airline%20Passenger%20Satisfaction/Dashboard%20picture.png)
+3. [Marketing Campaign Analysis](https://github.com/yfirdaws/PowerBI-Dashboard/tree/main/Mavens%20Marketing%20Campaign%20Analysis).  [Marketing Campaign Dashboard](https://github.com/yfirdaws/PowerBI-Dashboard/blob/main/Mavens%20Marketing%20Campaign%20Analysis/Screen%20shots/Screenshot%20(99).png)
+4. [Forbes World Billonaire analysis](https://github.com/yfirdaws/PowerBI-Dashboard/tree/main/Onyx%20Forbes-Worlds-Billionaires-List-2022%20analysis)
+5. [Supermarket Sales Dashboard](https://github.com/yfirdaws/PowerBI-Dashboard/tree/main/Supermarket%20Sales%20Dashboard) [Sales Dashboard](https://github.com/yfirdaws/PowerBI-Dashboard/blob/main/Supermarket%20Sales%20Dashboard/Screenshot%20(117).png)
+6. [Real estate Analysis](https://github.com/yfirdaws/PowerBI-Dashboard/tree/main/real%20estate%20dataset)
