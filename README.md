@@ -14,3 +14,5 @@ PROJECTS INCLUDED
 5. [Forbes World Billonaire analysis](https://github.com/yfirdaws/PowerBI-Dashboard/tree/main/Onyx%20Forbes-Worlds-Billionaires-List-2022%20analysis). This dashboard is based on the forbes billionaire 2022 june list. It focuses on the most hilantrophic of these billonaires on the list.![Forbes list Dashboard](https://github.com/yfirdaws/PowerBI-Dashboard/blob/main/Onyx%20Forbes-Worlds-Billionaires-List-2022%20analysis/Dashboard.png)
 6. [Supermarket Sales Dashboard](https://github.com/yfirdaws/PowerBI-Dashboard/tree/main/Supermarket%20Sales%20Dashboard). ![Sales Dashboard](https://github.com/yfirdaws/PowerBI-Dashboard/blob/main/Supermarket%20Sales%20Dashboard/Dashboard.png)
 7. [Real estate Analysis](https://github.com/yfirdaws/PowerBI-Dashboard/tree/main/real%20estate%20dataset).![Real estate Dashboard](https://github.com/yfirdaws/PowerBI-Dashboard/blob/main/real%20estate%20dataset/Dashboard.png)
+8.[HR analysis](https://github.com/yfirdaws/PowerBI-Dashboard/tree/main/Hr%20analysis).![Hr analysis Dashboard](https://github.com/yfirdaws/PowerBI-Dashboard/blob/main/Hr%20analysis/Dashboard%20Home.png)
+
